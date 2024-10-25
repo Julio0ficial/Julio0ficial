@@ -6,7 +6,7 @@
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <div align="center">
-  <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+  <a href="https://discord.com/1290755504863449208" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
