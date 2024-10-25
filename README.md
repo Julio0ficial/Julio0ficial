@@ -1,5 +1,3 @@
-Claro! Aqui está o texto melhorado:
-
 "Olá, meu nome é Júlio César. Tenho 23 anos e sou estudante de programação, com foco em JavaScript e Python."
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
