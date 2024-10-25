@@ -1,3 +1,5 @@
+Olá,Prazer meu nome é Júlio César,tenho 23 anos, e sou estudante de linguagem de programação, JavaScript e Python.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
