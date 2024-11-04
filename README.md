@@ -4,7 +4,7 @@ Sistema HTML5.
 Discord: Atlasoficial_
 ID: 1290755504863449208
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJulio0ficial?=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=anuraghazra&theme=dark&show_icons=true)
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
