@@ -1,6 +1,6 @@
 ---
 
-<h3 align="center"> :Ferramentas e Tecnologias:</h3>
+<h3 align="center">:Ferramentas e Tecnologias:</h3>
 <div align="center">
   <!-- Linguagens de Programação -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -23,7 +23,8 @@
   <br/>
 
   <!-- Controle de Versão -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
   <br/>
 
   <!-- IDEs e Editores -->
@@ -40,11 +41,10 @@
 ---
 
 <h3 align="center">:Estatísticas:</h3>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julio0ficial&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio0ficial&layout=compact&theme=radical" alt="Top Langs">
-</p>
+</div>
 
 ---
