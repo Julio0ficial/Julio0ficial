@@ -1,4 +1,6 @@
-<h3 align="center">:Ferramentas e Tecnologias:</h3>
+---
+
+<h3 align="center"> :Ferramentas e Tecnologias:</h3>
 <div align="center">
   <!-- Linguagens de Programação -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -21,11 +23,7 @@
   <br/>
 
   <!-- Controle de Versão -->
-
-  <img
- src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-  <img
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
   <br/>
 
@@ -42,7 +40,7 @@
 
 ---
 
-<h3 align="center"> Estatísticas</h3>
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julio0ficial&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
@@ -51,3 +49,8 @@
 </p>
 
 ---
+
+<h3 align="center">🔗 Conecte-se comigo</h3>
+<p align="center">
+  <a href="https://github.com/Julio0ficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
