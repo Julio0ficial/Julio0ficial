@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center">:Estatísticas:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julio0ficial&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
