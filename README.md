@@ -49,8 +49,3 @@
 </p>
 
 ---
-
-<h3 align="center">🔗 Conecte-se comigo</h3>
-<p align="center">
-  <a href="https://github.com/Julio0ficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
