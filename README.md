@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio0ficial&show_icons=true&theme=dark)
 
-<h2 align="center"> :Tecnologias e Ferramentas: </h2>
+<h2 align="center"> :Tecnologias: </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
